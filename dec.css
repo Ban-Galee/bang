@@ -1,0 +1,37 @@
+body{
+    padding: 20px;
+
+}
+#red{
+    color: red;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin: 0 auto;
+    align-items: center;
+}
+.nav-link{
+    display: flex;
+    gap: 5px;
+}
+.Tayo{
+    width: 70%;
+}
+.Media{
+    padding: 10px;
+}
+.Favourite-Meal ul li{
+    padding: 5px;
+}
+table,th,td{
+    margin: 20px;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+table{
+    border-collapse: collapse;
+}
